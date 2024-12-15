@@ -34,9 +34,13 @@ Run client:
 ***************** REMCP Usage ***********************
 
 DOWNLOAD FILE:      remcp <ip:absolute_path> <path>
+
 UPLOAD FILE:         remcp <path> <ip:absolute_path>
+
 LOCAL SERVER STATS:  remcp stats
+
 REMOTE SERVER STATS: remcp stats ip
+
 SHUTDOWN SERVER:     remcp quit
 
 *****************************************************
